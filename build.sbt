@@ -54,8 +54,8 @@ pomExtra := (
     </license>
   </licenses>
   <scm>
-    <url>git@github.com:uniso/tresql.git</url>
-    <connection>scm:git:git@github.com:uniso/tresql.git</connection>
+    <url>git@github.com:tapisproj/tresql.git</url>
+    <connection>scm:git:git@github.com:tapisproj/tresql.git</connection>
   </scm>
   <developers>
     <developer>
